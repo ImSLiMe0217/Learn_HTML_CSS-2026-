@@ -39,6 +39,6 @@ export default defineConfig({
   appType: 'mpa', // fallback 사용안함
   server: {
     host: '0.0.0.0',
-    port: 5174,
+    port: 5173,
   },
 });
